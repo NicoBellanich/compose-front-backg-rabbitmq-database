@@ -1,4 +1,4 @@
-# rabbitmq-golang-example
+# compose-front-backg-rabbitmq-database
 
 run : 
 `docker compose build` and `docker compose up` for running
